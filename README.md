@@ -20,9 +20,7 @@ The main goal of this project is to practice:
 
 ---
 
-## 🌐 Live URL
-
-book-browsing.vercel.app
+## 🌐 Live URL :- book-browsing.vercel.app
 ---
 
 ## ✨ Key Features
