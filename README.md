@@ -1,5 +1,11 @@
  Project Name:- BookBound
 
+ ![BookBound Preview](https://i.ibb.co/pmKhPdL/book-browsing.png)
+
+ 
+## 🌐 Live URL :- book-browsing.vercel.app
+---
+
 ## 🚀 Project Overview
 
 BookBound is a simple book browsing web application where users can explore books, filter them by category, and search by title. Users can also view detailed information about each book.
@@ -20,8 +26,6 @@ The main goal of this project is to practice:
 
 ---
 
-## 🌐 Live URL :- book-browsing.vercel.app
----
 
 ## ✨ Key Features
 
