@@ -2,8 +2,8 @@
 
  ![BookBound Preview](https://i.ibb.co/pmKhPdL/book-browsing.png)
 
- Live URL: [book-browsing.vercel.app](https:// book-browsing.vercel.app)
-
+## 🌐 Live URL: [book-browsing.vercel.app](https://book-browsing.vercel.app)
+---
 
 ## 🚀 Project Overview
 
