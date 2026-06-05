@@ -22,8 +22,7 @@ The main goal of this project is to practice:
 
 ## 🌐 Live URL
 
-https://pixgen-project-jade.vercel.app
-
+book-browsing.vercel.app
 ---
 
 ## ✨ Key Features
